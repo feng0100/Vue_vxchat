@@ -1,0 +1,72 @@
+{
+  "id": "2423728",
+  "name": "chat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "886694",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1056544",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "2076190",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "15779746",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "553885",
+      "name": "关于",
+      "font_class": "iconset0103",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "2551777",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3315097",
+      "name": "多人会议",
+      "font_class": "duorenhuiyi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "7466506",
+      "name": "多人在线聊天，聊天，群聊",
+      "font_class": "huabanfuben",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "18662029",
+      "name": "设置",
+      "font_class": "hanhan-01-01",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    }
+  ]
+}
